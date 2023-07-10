@@ -1,0 +1,288 @@
+train begin
+Epoch 1/48
+122/122 [==============================] - 8s 28ms/step - loss: 1.0025 - accuracy: 0.5139 - val_loss: 0.6253 - val_accuracy: 0.7435
+
+epoch end
+— test_accuracy: 0.750892 — test_precision: 0.756310 — test_recall 0.749639 — test_f1: 0.747213
+
+Epoch 2/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.6242 - accuracy: 0.7512 - val_loss: 0.5600 - val_accuracy: 0.7647
+
+epoch end
+— test_accuracy: 0.773999 — test_precision: 0.776508 — test_recall 0.771081 — test_f1: 0.771626
+
+Epoch 3/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.5708 - accuracy: 0.7693 - val_loss: 0.5347 - val_accuracy: 0.7748
+
+epoch end
+— test_accuracy: 0.782761 — test_precision: 0.782562 — test_recall 0.781268 — test_f1: 0.781277
+
+Epoch 4/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.5485 - accuracy: 0.7786 - val_loss: 0.5210 - val_accuracy: 0.7808
+
+epoch end
+— test_accuracy: 0.788473 — test_precision: 0.788865 — test_recall 0.787642 — test_f1: 0.786668
+
+Epoch 5/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.5351 - accuracy: 0.7796 - val_loss: 0.5106 - val_accuracy: 0.7841
+
+epoch end
+— test_accuracy: 0.791718 — test_precision: 0.792139 — test_recall 0.790343 — test_f1: 0.790054
+
+Epoch 6/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.5262 - accuracy: 0.7829 - val_loss: 0.5046 - val_accuracy: 0.7865
+
+epoch end
+— test_accuracy: 0.794249 — test_precision: 0.795078 — test_recall 0.793263 — test_f1: 0.792510
+
+Epoch 7/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.5148 - accuracy: 0.7868 - val_loss: 0.4965 - val_accuracy: 0.7892
+
+epoch end
+— test_accuracy: 0.794769 — test_precision: 0.794899 — test_recall 0.793709 — test_f1: 0.793469
+
+Epoch 8/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.5099 - accuracy: 0.7894 - val_loss: 0.4922 - val_accuracy: 0.7916
+
+epoch end
+— test_accuracy: 0.797235 — test_precision: 0.798814 — test_recall 0.795411 — test_f1: 0.795786
+
+Epoch 9/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.5027 - accuracy: 0.7917 - val_loss: 0.4854 - val_accuracy: 0.7940
+
+epoch end
+— test_accuracy: 0.799831 — test_precision: 0.800870 — test_recall 0.798371 — test_f1: 0.798475
+
+Epoch 10/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.4979 - accuracy: 0.7948 - val_loss: 0.4809 - val_accuracy: 0.7952
+
+epoch end
+— test_accuracy: 0.800286 — test_precision: 0.801777 — test_recall 0.799348 — test_f1: 0.798438
+
+Epoch 11/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.4875 - accuracy: 0.7995 - val_loss: 0.4763 - val_accuracy: 0.7994
+
+epoch end
+— test_accuracy: 0.805413 — test_precision: 0.804504 — test_recall 0.805337 — test_f1: 0.804464
+
+Epoch 12/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.4844 - accuracy: 0.8000 - val_loss: 0.4705 - val_accuracy: 0.7999
+
+epoch end
+— test_accuracy: 0.803596 — test_precision: 0.806792 — test_recall 0.801378 — test_f1: 0.801957
+
+Epoch 13/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.4802 - accuracy: 0.8003 - val_loss: 0.4664 - val_accuracy: 0.8024
+
+epoch end
+— test_accuracy: 0.806646 — test_precision: 0.806077 — test_recall 0.806356 — test_f1: 0.805384
+
+Epoch 14/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.4721 - accuracy: 0.8047 - val_loss: 0.4635 - val_accuracy: 0.8030
+
+epoch end
+— test_accuracy: 0.809437 — test_precision: 0.809506 — test_recall 0.809019 — test_f1: 0.808126
+
+Epoch 15/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.4653 - accuracy: 0.8059 - val_loss: 0.4598 - val_accuracy: 0.8024
+
+epoch end
+— test_accuracy: 0.808723 — test_precision: 0.809537 — test_recall 0.808030 — test_f1: 0.807174
+
+Epoch 16/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.4625 - accuracy: 0.8075 - val_loss: 0.4571 - val_accuracy: 0.8078
+
+epoch end
+— test_accuracy: 0.809502 — test_precision: 0.810224 — test_recall 0.809613 — test_f1: 0.807771
+
+Epoch 17/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.4573 - accuracy: 0.8106 - val_loss: 0.4540 - val_accuracy: 0.8077
+
+epoch end
+— test_accuracy: 0.811644 — test_precision: 0.815980 — test_recall 0.809733 — test_f1: 0.809770
+
+Epoch 18/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.4591 - accuracy: 0.8097 - val_loss: 0.4509 - val_accuracy: 0.8079
+
+epoch end
+— test_accuracy: 0.815019 — test_precision: 0.815422 — test_recall 0.815139 — test_f1: 0.813573
+
+Epoch 19/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.4547 - accuracy: 0.8118 - val_loss: 0.4507 - val_accuracy: 0.8098
+
+epoch end
+— test_accuracy: 0.814046 — test_precision: 0.815448 — test_recall 0.812600 — test_f1: 0.813252
+
+Epoch 20/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.4503 - accuracy: 0.8135 - val_loss: 0.4582 - val_accuracy: 0.8041
+
+epoch end
+— test_accuracy: 0.810670 — test_precision: 0.816410 — test_recall 0.807639 — test_f1: 0.810209
+
+Epoch 21/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.4456 - accuracy: 0.8156 - val_loss: 0.4477 - val_accuracy: 0.8113
+
+epoch end
+— test_accuracy: 0.814435 — test_precision: 0.817177 — test_recall 0.814266 — test_f1: 0.812136
+
+Epoch 22/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.4455 - accuracy: 0.8153 - val_loss: 0.4431 - val_accuracy: 0.8123
+
+epoch end
+— test_accuracy: 0.818005 — test_precision: 0.818739 — test_recall 0.817208 — test_f1: 0.817062
+
+Epoch 23/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.4412 - accuracy: 0.8179 - val_loss: 0.4438 - val_accuracy: 0.8129
+
+epoch end
+— test_accuracy: 0.817875 — test_precision: 0.820499 — test_recall 0.816226 — test_f1: 0.817609
+
+Epoch 24/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.4398 - accuracy: 0.8181 - val_loss: 0.4436 - val_accuracy: 0.8134
+
+epoch end
+— test_accuracy: 0.818264 — test_precision: 0.822618 — test_recall 0.816033 — test_f1: 0.817577
+
+Epoch 25/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.4347 - accuracy: 0.8211 - val_loss: 0.4378 - val_accuracy: 0.8153
+
+epoch end
+— test_accuracy: 0.819692 — test_precision: 0.820203 — test_recall 0.819357 — test_f1: 0.818511
+
+Epoch 26/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.4356 - accuracy: 0.8200 - val_loss: 0.4374 - val_accuracy: 0.8155
+
+epoch end
+— test_accuracy: 0.821380 — test_precision: 0.822977 — test_recall 0.820511 — test_f1: 0.820532
+
+Epoch 27/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.4330 - accuracy: 0.8212 - val_loss: 0.4346 - val_accuracy: 0.8163
+
+epoch end
+— test_accuracy: 0.820861 — test_precision: 0.820600 — test_recall 0.820928 — test_f1: 0.820318
+
+Epoch 28/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.4288 - accuracy: 0.8238 - val_loss: 0.4354 - val_accuracy: 0.8162
+
+epoch end
+— test_accuracy: 0.819368 — test_precision: 0.821839 — test_recall 0.817855 — test_f1: 0.818671
+
+Epoch 29/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.4259 - accuracy: 0.8239 - val_loss: 0.4504 - val_accuracy: 0.8096
+
+epoch end
+— test_accuracy: 0.813721 — test_precision: 0.821708 — test_recall 0.810378 — test_f1: 0.813651
+
+Epoch 30/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.4239 - accuracy: 0.8247 - val_loss: 0.4370 - val_accuracy: 0.8161
+
+epoch end
+— test_accuracy: 0.820406 — test_precision: 0.821591 — test_recall 0.820492 — test_f1: 0.818842
+
+Epoch 31/48
+122/122 [==============================] - 2s 18ms/step - loss: 0.4221 - accuracy: 0.8254 - val_loss: 0.4338 - val_accuracy: 0.8171
+
+epoch end
+— test_accuracy: 0.821704 — test_precision: 0.824597 — test_recall 0.820223 — test_f1: 0.821295
+
+Epoch 32/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.4201 - accuracy: 0.8262 - val_loss: 0.4321 - val_accuracy: 0.8180
+
+epoch end
+— test_accuracy: 0.822483 — test_precision: 0.823355 — test_recall 0.822364 — test_f1: 0.821340
+
+Epoch 33/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.4195 - accuracy: 0.8259 - val_loss: 0.4304 - val_accuracy: 0.8195
+
+epoch end
+— test_accuracy: 0.825080 — test_precision: 0.825684 — test_recall 0.824792 — test_f1: 0.824560
+
+Epoch 34/48
+122/122 [==============================] - 2s 18ms/step - loss: 0.4205 - accuracy: 0.8266 - val_loss: 0.4296 - val_accuracy: 0.8180
+
+epoch end
+— test_accuracy: 0.824041 — test_precision: 0.825798 — test_recall 0.823154 — test_f1: 0.824023
+
+Epoch 35/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.4125 - accuracy: 0.8292 - val_loss: 0.4279 - val_accuracy: 0.8180
+
+epoch end
+— test_accuracy: 0.822613 — test_precision: 0.823128 — test_recall 0.822281 — test_f1: 0.822053
+
+Epoch 36/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.4155 - accuracy: 0.8292 - val_loss: 0.4312 - val_accuracy: 0.8187
+
+epoch end
+— test_accuracy: 0.821315 — test_precision: 0.824036 — test_recall 0.819866 — test_f1: 0.820926
+
+Epoch 37/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.4154 - accuracy: 0.8281 - val_loss: 0.4389 - val_accuracy: 0.8146
+
+epoch end
+— test_accuracy: 0.819627 — test_precision: 0.821133 — test_recall 0.820925 — test_f1: 0.817989
+
+Epoch 38/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.4125 - accuracy: 0.8307 - val_loss: 0.4341 - val_accuracy: 0.8147
+
+epoch end
+— test_accuracy: 0.823197 — test_precision: 0.822573 — test_recall 0.824571 — test_f1: 0.822405
+
+Epoch 39/48
+122/122 [==============================] - 2s 18ms/step - loss: 0.4099 - accuracy: 0.8302 - val_loss: 0.4283 - val_accuracy: 0.8170
+
+epoch end
+— test_accuracy: 0.823846 — test_precision: 0.823261 — test_recall 0.824642 — test_f1: 0.823784
+
+Epoch 40/48
+122/122 [==============================] - 2s 18ms/step - loss: 0.4094 - accuracy: 0.8301 - val_loss: 0.4292 - val_accuracy: 0.8182
+
+epoch end
+— test_accuracy: 0.823911 — test_precision: 0.826841 — test_recall 0.822554 — test_f1: 0.823975
+
+Epoch 41/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.4101 - accuracy: 0.8309 - val_loss: 0.4315 - val_accuracy: 0.8179
+
+epoch end
+— test_accuracy: 0.822418 — test_precision: 0.822572 — test_recall 0.823423 — test_f1: 0.821177
+
+Epoch 42/48
+122/122 [==============================] - 2s 18ms/step - loss: 0.4041 - accuracy: 0.8341 - val_loss: 0.4263 - val_accuracy: 0.8209
+
+epoch end
+— test_accuracy: 0.824625 — test_precision: 0.825735 — test_recall 0.824048 — test_f1: 0.824086
+
+Epoch 43/48
+122/122 [==============================] - 2s 18ms/step - loss: 0.4012 - accuracy: 0.8361 - val_loss: 0.4282 - val_accuracy: 0.8187
+
+epoch end
+— test_accuracy: 0.822938 — test_precision: 0.823760 — test_recall 0.822444 — test_f1: 0.822868
+
+Epoch 44/48
+122/122 [==============================] - 2s 17ms/step - loss: 0.3956 - accuracy: 0.8368 - val_loss: 0.4296 - val_accuracy: 0.8186
+
+epoch end
+— test_accuracy: 0.823522 — test_precision: 0.828034 — test_recall 0.821914 — test_f1: 0.822903
+
+Epoch 45/48
+122/122 [==============================] - 2s 18ms/step - loss: 0.3963 - accuracy: 0.8363 - val_loss: 0.4284 - val_accuracy: 0.8183
+
+epoch end
+— test_accuracy: 0.822743 — test_precision: 0.823759 — test_recall 0.822285 — test_f1: 0.822558
+
+Epoch 46/48
+122/122 [==============================] - 2s 18ms/step - loss: 0.4021 - accuracy: 0.8333 - val_loss: 0.4273 - val_accuracy: 0.8198
+
+epoch end
+— test_accuracy: 0.823197 — test_precision: 0.823134 — test_recall 0.823427 — test_f1: 0.822921
+
+Epoch 47/48
+122/122 [==============================] - 2s 18ms/step - loss: 0.3988 - accuracy: 0.8362 - val_loss: 0.4288 - val_accuracy: 0.8186
+
+epoch end
+— test_accuracy: 0.824690 — test_precision: 0.824430 — test_recall 0.825241 — test_f1: 0.823992
+
+Epoch 48/48
+122/122 [==============================] - 2s 18ms/step - loss: 0.3991 - accuracy: 0.8346 - val_loss: 0.4298 - val_accuracy: 0.8158
+
+epoch end
+— test_accuracy: 0.824950 — test_precision: 0.827410 — test_recall 0.824217 — test_f1: 0.825533
